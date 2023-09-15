@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/practico3/static/css/main.15071820.css",
+    "main.js": "/practico3/static/js/main.a2af9cab.js",
+    "static/js/787.f9640105.chunk.js": "/practico3/static/js/787.f9640105.chunk.js",
+    "static/media/mano_tijera.PNG": "/practico3/static/media/mano_tijera.423fc190d64cda6adb5f.PNG",
+    "static/media/mano_piedra.PNG": "/practico3/static/media/mano_piedra.80de57b1721a57e400b8.PNG",
+    "static/media/mano_papel.PNG": "/practico3/static/media/mano_papel.d59ec2d2060fb096e930.PNG",
+    "static/media/logo.svg": "/practico3/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/practico3/index.html",
+    "main.15071820.css.map": "/practico3/static/css/main.15071820.css.map",
+    "main.a2af9cab.js.map": "/practico3/static/js/main.a2af9cab.js.map",
+    "787.f9640105.chunk.js.map": "/practico3/static/js/787.f9640105.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15071820.css",
+    "static/js/main.a2af9cab.js"
+  ]
+}
